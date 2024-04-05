@@ -1,0 +1,166 @@
+Enter filename: w100.txt
+
+ Line at Desk 1        | Line at Desk 2
+ Time  ID Name         | Time  ID Name
+   12   2 Ethan        |    8   1 Emily
+    7   3 Olivia       |   11   4 William
+   12   5 Mia          |   10   7 Harper
+    6   6 Benjamin     |   12   8 Ava
+    8  10 Charlotte    |    8   9 Liam
+   10  14 Ava          |    5  11 Elijah
+    8  17 Emma         |   11  12 Mia
+   12  18 Elijah       |   11  13 James
+    8  19 Henry        |    6  15 Olivia
+   12  20 Charlotte    |    6  16 Sophia
+    9  23 Harper       |   10  21 Amelia
+    7  25 Liam         |    7  22 Mason
+   11  26 Benjamin     |    9  24 Sophia
+    5  28 Ethan        |    9  27 Isabella
+    6  29 Harper       |    9  31 Amelia
+   10  30 Amelia       |    7  32 Ava
+    9  36 Harper       |    7  33 William
+    8  37 Benjamin     |    6  34 Emma
+    9  40 Noah         |   11  35 William
+    5  41 Emma         |    8  38 Olivia
+    8  42 Emma         |    5  39 Sophia
+    9  44 Charlotte    |    9  43 Ava
+    6  45 Harper       |   10  47 Mia
+   11  46 Noah         |    8  48 Mia
+    9  53 Benjamin     |    8  49 Harper
+    7  54 Emma         |    8  50 Sophia
+   12  55 Liam         |   10  51 Noah
+   11  56 Emma         |    8  52 Isabella
+    9  58 William      |    8  57 Ethan
+    8  59 Sophia       |    7  61 Harper
+    9  60 Ava          |   10  62 Benjamin
+   12  63 Harper       |    8  70 Charlotte
+    9  64 William      |    8  71 Mia
+    8  65 Olivia       |    9  72 Mason
+   10  66 Noah         |    9  73 Benjamin
+    7  67 Isabella     |   11  74 Liam
+    7  68 Mia          |    9  76 Noah
+    7  69 Olivia       |   10  77 Olivia
+    8  75 Sophia       |    6  83 Harper
+    9  78 Amelia       |   10  85 Ava
+    7  79 Mason        |   10  86 Ava
+   11  80 Emma         |    9  88 Ava
+   12  81 Liam         |    8  89 Emma
+    8  82 Ava          |   10  92 Harper
+   12  84 Amelia       |    9  93 Ava
+   12  87 William      |
+    6  90 Benjamin     |
+   10  91 Emma         |
+    9  94 William      |
+   10  95 Noah         |
+    8  96 Benjamin     |
+    6  97 Mia          |
+   11  98 Ava          |
+   11  99 Mason        |
+    8 100 Emma         |
+
+Processing queues:
+leave  ID Name
+    8   1 Emily
+   12   2 Ethan
+   19   3 Olivia
+   19   4 William
+   29   7 Harper
+   31   5 Mia
+   37   6 Benjamin
+   41   8 Ava
+   45  10 Charlotte
+   49   9 Liam
+   54  11 Elijah
+   55  14 Ava
+   63  17 Emma
+   65  12 Mia
+   75  18 Elijah
+   76  13 James
+   82  15 Olivia
+   83  19 Henry
+   88  16 Sophia
+   95  20 Charlotte
+   98  21 Amelia
+  104  23 Harper
+  105  22 Mason
+  111  25 Liam
+  114  24 Sophia
+  122  26 Benjamin
+  123  27 Isabella
+  127  28 Ethan
+  132  31 Amelia
+  133  29 Harper
+  139  32 Ava
+  143  30 Amelia
+  146  33 William
+  152  36 Harper
+  152  34 Emma
+  160  37 Benjamin
+  163  35 William
+  169  40 Noah
+  171  38 Olivia
+  174  41 Emma
+  176  39 Sophia
+  182  42 Emma
+  185  43 Ava
+  191  44 Charlotte
+  195  47 Mia
+  197  45 Harper
+  203  48 Mia
+  208  46 Noah
+  211  49 Harper
+  217  53 Benjamin
+  219  50 Sophia
+  224  54 Emma
+  229  51 Noah
+  236  55 Liam
+  237  52 Isabella
+  245  57 Ethan
+  247  56 Emma
+  252  61 Harper
+  256  58 William
+  262  62 Benjamin
+  264  59 Sophia
+  270  70 Charlotte
+  273  60 Ava
+  278  71 Mia
+  285  63 Harper
+  287  72 Mason
+  294  64 William
+  296  73 Benjamin
+  302  65 Olivia
+  307  74 Liam
+  312  66 Noah
+  316  76 Noah
+  319  67 Isabella
+  326  68 Mia
+  326  77 Olivia
+  332  83 Harper
+  333  69 Olivia
+  341  75 Sophia
+  342  85 Ava
+  350  78 Amelia
+  352  86 Ava
+  357  79 Mason
+  361  88 Ava
+  368  80 Emma
+  369  89 Emma
+  379  92 Harper
+  380  81 Liam
+  388  82 Ava
+  388  93 Ava
+  400  84 Amelia
+  412  87 William
+  418  90 Benjamin
+  428  91 Emma
+  437  94 William
+  447  95 Noah
+  455  96 Benjamin
+  461  97 Mia
+  472  98 Ava
+  483  99 Mason
+  491 100 Emma
+
+
+Total requests processed at Desk 1: 55
+Total requests processed at Desk 2: 45

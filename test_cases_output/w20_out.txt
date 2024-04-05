@@ -1,0 +1,42 @@
+Enter filename: w20.txt
+
+ Line at Desk 1        | Line at Desk 2
+ Time  ID Name         | Time  ID Name
+    9   1 Alice        |    7   2 Bob
+    9   4 David        |   11   3 Charlie
+   10   7 Grace        |    6   5 Emma
+    7  11 Kate         |    9   6 Frank
+    8  13 Mia          |    7   8 Henry
+    8  14 Noah         |    8   9 Ivy
+    7  15 Olivia       |    7  10 Jack
+   10  17 Quinn        |   10  12 Liam
+   11  20 Tom          |    9  16 Peter
+                       |    8  18 Ryan
+                       |   10  19 Sophia
+
+Processing queues:
+leave  ID Name
+    7   2 Bob
+    9   1 Alice
+   18   4 David
+   18   3 Charlie
+   24   5 Emma
+   28   7 Grace
+   33   6 Frank
+   35  11 Kate
+   40   8 Henry
+   43  13 Mia
+   48   9 Ivy
+   51  14 Noah
+   55  10 Jack
+   58  15 Olivia
+   65  12 Liam
+   68  17 Quinn
+   74  16 Peter
+   79  20 Tom
+   82  18 Ryan
+   92  19 Sophia
+
+
+Total requests processed at Desk 1: 9
+Total requests processed at Desk 2: 11
