@@ -1,6 +1,0 @@
-id advisor time name
-1 1 5 Luis
-2 1 3 Alice
-3 2 4 Bob
-4 1 3 Jane
-5 1 4 Will
